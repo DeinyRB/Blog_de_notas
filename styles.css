@@ -1,0 +1,17 @@
+*{margin: 0;
+  padding: 0;}
+  
+  .header{
+    width: 100%;
+    display: flex;
+    margin-top: 110px;
+    background-color: darksalmon;
+  }
+  
+  img {
+    width: 40px;
+    header:40px;}
+  
+  .margen{
+    margin: 20px 0px;
+  }
